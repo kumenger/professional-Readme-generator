@@ -13,7 +13,20 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+   ## Description
+  ${data.description}
+  ## Installation
+  ${data.Installation}
+   ## Usage
+  ${data.Usage}
+  ## Questions
+  Github Profile:${data.github}
+  COntact Me:${data.email}
+ ## License
+${data.License}
 
+
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 `;
 }
 
