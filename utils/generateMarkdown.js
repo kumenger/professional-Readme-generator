@@ -79,8 +79,8 @@ function generateMarkdown(data) {
    ## Usage
  ### ${data.Usage}
   ## Questions
-   ### Github Profile:${data.github}
-   ### Contact Me:${data.email}
+   #### Github Profile:${data.github}
+   #### Contact Me:${data.email}
  ## License
  ### ${renderLicenseLink(data.License).link}
 
