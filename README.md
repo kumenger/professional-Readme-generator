@@ -1,16 +1,16 @@
-  
-  # h
+ ![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)
+  # ReadMe generator
    ## Description
-  h
+  a profesional terminalbased readme generator
   ## Installation
-  h
+  n/a
    ## Usage
-  h
+  npm start in terminal
   ## Questions
-  Github Profile:h
-  Contact Me:h
+  Github Profile:kumeprog
+  Contact Me:kumeprog@gmail.com
  ## License
-  
+  https://opendatacommons.org/licenses/by/
 
 
 
