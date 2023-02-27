@@ -1,10 +1,10 @@
-// TODO: Include packages needed for this application
+
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 var returedData = {};
 
-// TODO: Create an array of questions for user input
+
 const questions = [
   {
     type: "input",
@@ -26,11 +26,7 @@ const questions = [
     message: "Usage?",
     name: "Usage",
   },
-  {
-    type: "input",
-    message: "Table of Contents for project",
-    name: "Contents",
-  },
+
   {
     type: "input",
     message: "who Contributed to this project",
@@ -61,7 +57,7 @@ const questions = [
   },
 ];
 
-// TODO: Create a function to write README file
+
 
 function writeToFile(fileName, data) {
     
@@ -72,11 +68,10 @@ function writeToFile(fileName, data) {
   });
 }
 
-// TODO: Create a function to initialize app
+
 function init() {
     inquirer.prompt(questions).then((dataHere)=>writeToFile('README.md',dataHere))
 }
-//writeToFile('README.md',data)).then(() => console.log('Successfully wrote to redme.md')
-// Function call to initialize app
+
 init();
 

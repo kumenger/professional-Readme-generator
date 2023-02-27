@@ -1,13 +1,18 @@
  ![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)
-  # ReadMe generator
+  # readme generatorusage
    ## Description
-  a profesional terminalbased readme generator
+  a proffesinal readme generator
+  ## Table of Contents
+  [Installation](https://github.com/kumenger/professional-readme-generator#installation)
+  [Questions](https://github.com/kumenger/professional-readme-generator#questions)
+  [Usage](https://github.com/kumenger/professional-readme-generator#usage)
+  [License](https://github.com/kumenger/professional-readme-generator#license)
   ## Installation
-  n/a
+  no
    ## Usage
-  npm start in terminal
+  npm start
   ## Questions
-  Github Profile:kumeprog
+  Github Profile:https://github.com/kumenger
   Contact Me:kumeprog@gmail.com
  ## License
   https://opendatacommons.org/licenses/by/
