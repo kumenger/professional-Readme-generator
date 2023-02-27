@@ -1,21 +1,21 @@
- ![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)
-  # readme generatorusage
+ ![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)
+  # ReadMe Generator
    ## Description
-  a proffesinal readme generator
+  A proffesional readme generating app using terminal
   ## Table of Contents
-  [Installation](https://github.com/kumenger/professional-readme-generator#installation)
-  [Questions](https://github.com/kumenger/professional-readme-generator#questions)
-  [Usage](https://github.com/kumenger/professional-readme-generator#usage)
-  [License](https://github.com/kumenger/professional-readme-generator#license)
+  ### [Installation](https://github.com/kumenger/professional-readme-generator#installation)
+ ### [Questions](https://github.com/kumenger/professional-readme-generator#questions)
+ ### [Usage](https://github.com/kumenger/professional-readme-generator#usage)
+ ### [License](https://github.com/kumenger/professional-readme-generator#license)
   ## Installation
-  no
+  n/a
    ## Usage
-  npm start
+  npm start in terminal
   ## Questions
-  Github Profile:https://github.com/kumenger
-  Contact Me:kumeprog@gmail.com
+   ### Github Profile:https://github.com/kumenger
+   ### Contact Me:kumedeve@gmail.com
  ## License
-  https://opendatacommons.org/licenses/by/
+  https://opensource.org/licenses/MPL-2.0
 
 
 
