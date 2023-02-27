@@ -1,21 +1,16 @@
- ![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)
-  # readme generatorusage
+ ![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)
+  # Readme generatorusage
    ## Description
-  a proffesinal readme generator
+  a readme generator for projectes in terminal
   ## Table of Contents
-  [Installation](https://github.com/kumenger/professional-readme-generator#installation)
-  [Questions](https://github.com/kumenger/professional-readme-generator#questions)
-  [Usage](https://github.com/kumenger/professional-readme-generator#usage)
-  [License](https://github.com/kumenger/professional-readme-generator#license)
-  ## Installation
+  [Installation](https://github.com/kumenger/professional-readme-generator#installation)  [Questions](https://github.com/kumenger/professional-readme-generator#questions)  [Usage](https://github.com/kumenger/professional-readme-generator#usage)  [License](https://github.com/kumenger/professional-readme-generator#license)  ## Installation
   no
    ## Usage
-  npm start
+  npm start in terminal
   ## Questions
-  Github Profile:https://github.com/kumenger
-  Contact Me:kumeprog@gmail.com
+  Github Profile:https://github.com/kumenger  Contact Me:kumeprog@gmail.com
  ## License
-  https://opendatacommons.org/licenses/by/
+  https://opensource.org/licenses/Zlib
 
 
 

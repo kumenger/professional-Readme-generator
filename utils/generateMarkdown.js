@@ -70,16 +70,16 @@ function generateMarkdown(data) {
    ## Description
   ${data.description}
   ## Table of Contents
-  [Installation](${url+"installation"})
-  [Questions](${url+"questions"})
-  [Usage](${url+"usage"})
-  [License](${url+"license"})
+  [Installation](${url+"installation"})\
+  [Questions](${url+"questions"})\
+  [Usage](${url+"usage"})\
+  [License](${url+"license"})\
   ## Installation
   ${data.Installation}
    ## Usage
   ${data.Usage}
   ## Questions
-  Github Profile:${data.github}
+  Github Profile:${data.github}\
   Contact Me:${data.email}
  ## License
   ${renderLicenseLink(data.License).link}
