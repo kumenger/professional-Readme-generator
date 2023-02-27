@@ -57,7 +57,7 @@ const questions = [
     message: "License used?",
     name: "License",
     type: "list",
-    choices:["Microsoft Public License","MIT","Mozilla Public License 2.0","Open Software License 3.0","The Unlicense", "zLib License"],
+    choices:["Microsoft Public License","MIT","Mozilla Public License 2.0","Open Software License 3.0","The Unlicense", "zLib License","ISC"],
   },
 ];
 

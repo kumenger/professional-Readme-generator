@@ -1,15 +1,16 @@
-# redme
+ [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]
+  # k
    ## Description
-  no
+  k
   ## Installation
-  no
+  k
    ## Usage
-  npm start
+  k
   ## Questions
-  Github Profile:kumeprog@github.co
-  COntact Me:kumeprog@gmail.com
+  Github Profile:k
+  COntact Me:k
  ## License
-Open Software License 3.0
+  https://opensource.org/licenses/ISC
 
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
